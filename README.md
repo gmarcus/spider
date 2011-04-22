@@ -5,7 +5,7 @@
 From source:
 
 <pre>
-  git clone git://github.com/mikeal/spider.git 
+  git clone git://github.com/gmarcus/spider.git 
   cd spider
   npm link .
 </pre>
